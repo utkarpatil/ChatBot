@@ -1,4 +1,4 @@
-#Personalised ChatBot using OpenAI
+# Personalised ChatBot using OpenAI
 
 The ChatBot project can be called as personalised LLM.
 This chatbot works as you ask qustion within your given data it will give the appropriate answers of your questions. 
